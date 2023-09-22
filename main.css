@@ -3,8 +3,7 @@ html {
 }
 
 h1 {
-    text-overflow: clip;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 10px;
+    font-size: 10 px;
     text-decoration-color: red;
 }
