@@ -1,9 +1,11 @@
-html {
+body {
+    background: -webkit-repeating-linear-gradient();
+    background: fixed;
+    background: center;
     background-color: black;
+
 }
 
 h1 {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 10 px;
-     color: red;
+    -webkit-text-fill-color: red;
 }
