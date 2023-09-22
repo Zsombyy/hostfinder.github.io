@@ -1,12 +1,8 @@
-body {
-    background: -webkit-repeating-linear-gradient();
-    background: fixed;
-    background: center;
+html {
     background-color: black;
-
 }
 
 h1 {
-    -webkit-text-fill-color: aquamarine
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
 }
-  
