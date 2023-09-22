@@ -1,0 +1,10 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    text-overflow: clip;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    text-decoration-color: red;
+}
